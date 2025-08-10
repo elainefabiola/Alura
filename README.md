@@ -92,12 +92,6 @@ Estas são algumas das tecnologias que utilizei ao longo dos cursos:
 💬 Como Navegar
 Cada curso possui sua própria pasta, que contém:
 
-/projeto: O código-fonte do projeto final.
-
-/anotacoes: Apontamentos e resumos importantes.
-
-README.md: Detalhes específicos sobre o aprendizado no curso.
-
 Sinta-se à vontade para explorar, usar como referência e me contatar para trocarmos ideias. Se gostar do que viu, considere deixar uma ⭐!
 
 <div align="center">
